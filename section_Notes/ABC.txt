@@ -1,0 +1,9 @@
+Notes on ABC
+
+Always be coding something. Get code under your belt every single day if possible. All coding is worthwhile; intentional coding is best. "Have goals in mind, explore new areas, and challenge yourself."
+
+Master one multi-paradigm language. -You will Master java. You can get comfortable with Python and JavaScript.
+
+Know the big O space and time complexities of all the Major Data Structures. Understand how they work. Then implement them without using commn libraries.
+
+Do your word problems.
